@@ -1,2 +1,2 @@
-# Fsace_detection
+# Face_detection
 Detecting face and eyes using OpenCV
